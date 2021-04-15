@@ -4,7 +4,7 @@ This repository contains a Colab Notebook which helps you to implement the First
 
 ## Data
 Data folder contains the Source image and the Driving video for the First order model.
-![alt text](https://github.com/Devicharith/Deep-Fake-Bot/blob/Data/rdj1.jpg?raw=true)
+![alt text](https://github.com/Devicharith/Deep-Fake-Bot/blob/master/Data/rdj1.png?raw=true)
 
 ## Results
 Results has the animated video with audio and comparison video between original and deep fake bot.
